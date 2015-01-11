@@ -1,3 +1,14 @@
+## Assignment - Coursera : Exploratory Data Analysis
+## By iyermobile | https://github.com/iyermobile/ExData_Plotting1
+
+## About Assignment
+Please read the `Introduction' at the lower sections
+
+## About the Code File:
+The PLOT code file(s) does the following when run in R Studio as BATCH:
+* Read the data set file
+* Plot and save the outputs PNG file ( Default Background) with a width of 480 pixels and a height of 480 pixels.
+
 ## Introduction
 
 This assignment uses data from
@@ -111,4 +122,5 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+
 
