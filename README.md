@@ -5,7 +5,7 @@
 Please read the `Introduction' at the lower sections
 
 ## About the Code File:
-The PLOT code file(s) does the following when run in R Studio as BATCH:
+My PLOT code file(s) does the following when run in R Studio as BATCH:
 * Read the data set file
 * Plot and save the outputs PNG file ( Default Background) with a width of 480 pixels and a height of 480 pixels.
 
